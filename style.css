@@ -1,0 +1,51 @@
+
+body{
+    background-color:antiquewhite;
+}
+.message {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+    
+ .message-header {
+    display: flex;
+    justify-content: center;
+}
+
+.userText{
+    width:1000px;
+}
+       
+.footer {
+    position: fixed;
+    bottom: 0;
+}
+    
+.knopka {display: flex;
+}
+    
+.text.bold {
+font-weight: bold;
+}   
+.text.italics {
+    font-style: italic;
+}   
+.text.left {
+    text-align: left;
+}   
+.text.right {
+    text-align: right;   
+}   
+.text.justify {
+    text-align: justify;
+}   
+.text.underline {
+    text-decoration: underline;
+}
+#button{
+    text-align: center;
+    background-color: rgb(177, 194, 194);
+    width: 1000px;
+}

@@ -1,0 +1,24 @@
+
+
+.cont{
+
+    background-color: antiquewhite;
+    border-width: 3px;
+    border-style: double;
+    border-color: rgb(212, 210, 210);
+
+}
+
+h3{
+    text-align: center;
+}
+
+#text1, #text2{
+
+
+    width: 80%
+
+}
+button{
+    width: 90%;
+}

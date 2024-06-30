@@ -1,0 +1,13 @@
+.box{
+    background-color: antiquewhite;
+    width: 60%;
+    height: 120px;
+     display: block;
+}
+
+.next{
+    background-color: antiquewhite;
+    width: 60%;
+    height: 120px;
+    display: none;
+}
